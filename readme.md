@@ -93,19 +93,13 @@ xtui/
 ├── .env                  # Configuration file (created during installation)
 └── README.md             # This file
 ```
-Contributing
-Contributions are welcome! Here’s how you can help:
+#Contributing
+Contributions are welcome!
 
-Report Bugs: Open an issue on GitHub.
-
-Suggest Features: Dynamic ASCII arts, cloud save features, bug fixes.
-
-Submit Pull Requests: Fork the repository, make your changes, and submit a PR.
-
-License
+#License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgments
+#Acknowledgments
 BubbleTea for the TUI framework.
 
 SQLite3 for lightweight database management.
@@ -120,10 +114,10 @@ About Tab
 Contact
 For questions or feedback, reach out to:
 
-Your Name - @yourusername
 
-Email: your.email@example.com
+Email: daschinmoyy21@gmail.com
 
-GitHub: yourusername
+GitHub: daschinmoy21
+X: crimxnhaze
 
-Enjoy using Xtui! 🚀
+#*Enjoy using Xtui! 🚀*
