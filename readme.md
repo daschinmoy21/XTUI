@@ -34,10 +34,13 @@
    ```bash
    git clone https://github.com/yourusername/xtui.git
    cd xtui
-Run the Install Script:
+# Xtui - Terminal User Interface for Task Management
 
-bash
-Copy
+## Installation
+
+### Run the Install Script:
+
+```bash
 chmod +x install.sh
 sudo ./install.sh
 This script will:
@@ -52,12 +55,11 @@ Create a .env file for configuration.
 
 Install the xtui executable to /usr/local/bin.
 
+Usage
 Run the Program:
-
 bash
 Copy
 xtui
-Usage
 Keybindings
 Key(s)	Action
 h, left	Switch to the previous tab.
@@ -98,7 +100,7 @@ Contributions are welcome! Here’s how you can help:
 
 Report Bugs: Open an issue on GitHub.
 
-Suggest Features: Dynamic ASCII arts,cloud save features,bug fixes.
+Suggest Features: Dynamic ASCII arts, cloud save features, bug fixes.
 
 Submit Pull Requests: Fork the repository, make your changes, and submit a PR.
 
@@ -113,8 +115,8 @@ SQLite3 for lightweight database management.
 Charmbracelet for inspiring terminal-based tools.
 
 Screenshots
-<!-- Add screenshots here if available -->
 Tasks Tab
+
 About Tab
 
 Contact
@@ -127,15 +129,3 @@ Email: your.email@example.com
 GitHub: yourusername
 
 Enjoy using Xtui! 🚀
-
-Copy
-
----
-
-### How to Use
-
-1. Copy the content above into a file named `README.md` in your project’s root directory.
-2. Replace placeholders like `yourusername`, `your.email@example.com`, and `assets/xtui_screenshot.png` with your actual information and assets.
-3. Commit the `README.md` file to your GitHub repository.
-
-This `README.md` provides a professional and user-friendly introduction to your project, making it easy for users and contributors to get started.
