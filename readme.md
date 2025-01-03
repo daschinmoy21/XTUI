@@ -84,7 +84,7 @@ ASCII_ART_PATH=/usr/local/share/xtui/faqs_ascii.txt
 You can modify these paths if needed.
 
 Project Structure
-Copy
+```
 xtui/
 ├── assets/               # Contains assets like ASCII art
 │   └── faqs_ascii.txt
@@ -92,6 +92,7 @@ xtui/
 ├── install.sh            # Installation script
 ├── .env                  # Configuration file (created during installation)
 └── README.md             # This file
+```
 Contributing
 Contributions are welcome! Here’s how you can help:
 
