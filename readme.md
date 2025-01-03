@@ -44,7 +44,7 @@
 chmod +x install.sh
 sudo ./install.sh
 This script will:
-
+```
 Install dependencies (Go, SQLite3, and required Go packages).
 
 Build the program.
@@ -57,9 +57,10 @@ Install the xtui executable to /usr/local/bin.
 
 Usage
 Run the Program:
-bash
+```bash
 Copy
 xtui
+```
 Keybindings
 Key(s)	Action
 h, left	Switch to the previous tab.
@@ -80,10 +81,11 @@ About: Learn more about Xtui.
 Configuration
 The .env file is created during installation and contains the following configuration:
 
-env
+```env
 Copy
 DATABASE_PATH=/usr/local/share/xtui/tui-do.db
 ASCII_ART_PATH=/usr/local/share/xtui/faqs_ascii.txt
+```
 You can modify these paths if needed.
 
 Project Structure
