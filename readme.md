@@ -62,16 +62,12 @@ Copy
 xtui
 ```
 Keybindings
-Key(s)	Action
-h, left	Switch to the previous tab.
-l, right	Switch to the next tab.
-enter	Add a new task (in insert mode).
-esc	Exit insert mode.
-space	Toggle task status (todo/done).
-d	Delete the selected task.
-u	Undo the last deletion.
-q, ctrl+c	Quit the program.
-Tabs
+| Key(s)       | Action                          |
+|--------------|---------------------------------|
+| `h`, `left`  | Switch to the previous tab.     |
+| `l`, `right` | Switch to the next tab.         |
+| `enter`      | Add a new task (in insert mode).|
+
 Tasks: Manage your todo list.
 
 User: (Work in Progress) User info and cloud sync status.
