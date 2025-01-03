@@ -58,7 +58,6 @@ Install the xtui executable to /usr/local/bin.
 Usage
 Run the Program:
 ```bash
-Copy
 xtui
 ```
 Keybindings
